@@ -1,0 +1,6 @@
+name: genpark-agent-second-brain-episodic-memory-mesh-skill
+version: 1.0.0
+description: Persistent episodic memory mesh extractor building cross-session entity relationship graphs and decision logs
+command: python
+args:
+  - mcp_server.py
